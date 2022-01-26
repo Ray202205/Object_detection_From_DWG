@@ -1,0 +1,9 @@
+# train and val data
+train: ../Dataset/images/train/
+val: ../Dataset/images/val/
+
+# number of classes
+nc: 3
+
+# class names
+names: ['Bolt', 'Screw', 'L Profile']
